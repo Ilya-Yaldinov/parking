@@ -1,0 +1,15 @@
+C:\Users\ilyay\RiderProjects\парковка\парковка\bin\Debug\net6.0\парковка.exe
+C:\Users\ilyay\RiderProjects\парковка\парковка\bin\Debug\net6.0\парковка.deps.json
+C:\Users\ilyay\RiderProjects\парковка\парковка\bin\Debug\net6.0\парковка.runtimeconfig.json
+C:\Users\ilyay\RiderProjects\парковка\парковка\bin\Debug\net6.0\парковка.dll
+C:\Users\ilyay\RiderProjects\парковка\парковка\bin\Debug\net6.0\ref\парковка.dll
+C:\Users\ilyay\RiderProjects\парковка\парковка\bin\Debug\net6.0\парковка.pdb
+C:\Users\ilyay\RiderProjects\парковка\парковка\obj\Debug\net6.0\парковка.csproj.AssemblyReference.cache
+C:\Users\ilyay\RiderProjects\парковка\парковка\obj\Debug\net6.0\парковка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyay\RiderProjects\парковка\парковка\obj\Debug\net6.0\парковка.AssemblyInfoInputs.cache
+C:\Users\ilyay\RiderProjects\парковка\парковка\obj\Debug\net6.0\парковка.AssemblyInfo.cs
+C:\Users\ilyay\RiderProjects\парковка\парковка\obj\Debug\net6.0\парковка.csproj.CoreCompileInputs.cache
+C:\Users\ilyay\RiderProjects\парковка\парковка\obj\Debug\net6.0\парковка.dll
+C:\Users\ilyay\RiderProjects\парковка\парковка\obj\Debug\net6.0\ref\парковка.dll
+C:\Users\ilyay\RiderProjects\парковка\парковка\obj\Debug\net6.0\парковка.pdb
+C:\Users\ilyay\RiderProjects\парковка\парковка\obj\Debug\net6.0\парковка.genruntimeconfig.cache
